@@ -1,0 +1,1 @@
+C:\ProgramData\anaconda3\python.exe -m jupyter notebook
